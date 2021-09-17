@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Lista": [
+    {
+        "id": "1",
+        "nif": "80859180",
+        "nombre": "Andres",
+        "apellido1": "Lote",
+        "apellido2": "Villamil",
+        "ciudad": "Bogota",
+        "direccion": "Tv 48 A # 69C 13 Sur",
+        "telefono": "310580933",
+        "fecha_nacimiento": "0000-00-00",
+        "sexo": "M"
+    },
+    {
+        "id": "2",
+        "nif": "123456678",
+        "nombre": "Alex",
+        "apellido1": "Mota",
+        "apellido2": "Campo",
+        "ciudad": "Medellin",
+        "direccion": "Calle 28 c 45 14",
+        "telefono": "2311555",
+        "fecha_nacimiento": "1990-10-20",
+        "sexo": "M"
+    },
+    {
+        "id": "5",
+        "nif": "55555",
+        "nombre": "Juanes",
+        "apellido1": "Santos",
+        "apellido2": "Borre",
+        "ciudad": "Medellin",
+        "direccion": "Carrera 15 45 89",
+        "telefono": "315963852",
+        "fecha_nacimiento": "1991-12-15",
+        "sexo": "M"
+    }
+]
+}
